@@ -3,6 +3,8 @@
 
 `~~MVC Based Archericture~~`
 
+URL:http://localhost:8080/swagger-ui.html#/
+
 **Technologies and frame works Used**
 
 Spring Boot
