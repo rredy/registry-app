@@ -2,6 +2,7 @@
 `RestApi for Conferance Registration Service`
 
 `~~MVC Based Archericture~~`
+
 **Technologies and frame works Used**
 
 Spring Boot
@@ -12,7 +13,7 @@ Maven
 
 Swagger
 
-Right now not using animatable,using List for all curd operations
+Right now not using any database,using List for all curd operations
 
 
 Used  Three controllers for the API Construction documented all post and get calls 
