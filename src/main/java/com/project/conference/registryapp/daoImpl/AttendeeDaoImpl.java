@@ -24,7 +24,6 @@ public class AttendeeDaoImpl implements AttendeeDao {
 	public String register(Attendee attendee) {
 
 		log.info("Registering Attendee for Conference");
-
 		attendeeList.add(attendee);
 		return "Success";
 	}
